@@ -6,7 +6,7 @@ Deep Reinforcement Learning with Double Q-learning 논문을 LunarLander-v3환�
 ## 빠른 실행 (Quick Start)
 긴 학습 시간(약 2시간) 없이 저장된 결과로 그래프를 즉시 보려면 아래 버튼을 클릭하세요.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iamchaewon/RL-DDQN-Comparison/blob/main/notebooks/LunarLander_DDQN_Final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OEy7TRUwChWN3KrT9TuGxqpCCDHsRSyN#scrollTo=CH2-KiZAOvFo)
 
 **단계:**
 1. 코랩 상단 배지를 클릭하여 노트북을 엽니다.
