@@ -1,6 +1,5 @@
 # RL-DDQN-Comparison
 
-재현
 이 프로젝트는Deep Reinforcement Learning with Double Q-learning 논문을 LunarLander-v3환경 기반으로 재연하고, 타겟 업데이트 주기($C_{freq}$)에 따른 학습 안정성을 분석합니다.
 
 ## 실행 가이드
