@@ -4,7 +4,6 @@ Deep Reinforcement Learning with Double Q-learning 논문을 LunarLander-v3환�
 이 프로젝트는 **Double DQN(2016)** 논문의 결과를 재연하고, 타겟 업데이트 주기($C_{freq}$)에 따른 학습 안정성을 분석합니다.
 
 ## 실행 가이드
-긴 학습 시간(약 2시간) 없이 저장된 결과로 그래프를 즉시 보려면 아래 버튼을 클릭하세요.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OEy7TRUwChWN3KrT9TuGxqpCCDHsRSyN#scrollTo=CH2-KiZAOvFo)
 
